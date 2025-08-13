@@ -1,0 +1,11 @@
+resume:
+    name
+    email id:
+    mobile number:
+
+    career Objectives:
+
+
+    Education Deatails:
+    table:
+    sno   Qualification   percentage   YearOfPass==>th tag

@@ -1,0 +1,19 @@
+body{
+    background-image: url(./resume_background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    border: solid 5px rgb(26, 42, 128);
+    width: 500px;
+    /* margin: 0 auto;
+    margin-top: 150px; */
+
+    margin: 25%;
+    padding: 20px;
+    color: rgb(59, 56, 160);
+}
+select{
+    color: white;
+    background-color: black;
+}

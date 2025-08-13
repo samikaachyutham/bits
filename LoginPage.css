@@ -1,0 +1,30 @@
+body{
+    background-image: url(./LoginPage.jpg);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    height: 150px;
+}
+input{
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom: solid;
+    border-radius: 0%;
+}
+a{
+    color: rgb(70, 92, 136);
+    font-size: 30px; 
+    text-decoration:none;
+}
+button a{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(65, 100, 74);
+    font-size: 20px;    
+    color: rgb(241, 240, 233);
+    border-radius: 20px;
+}
+button a:hover{
+    background-color: rgb(254, 209, 106);
+    color: rgb(56, 102, 65);
+}
